@@ -1,3 +1,0 @@
-import os
-os.system("go build")
-os.system(".\olive.go.exe")
